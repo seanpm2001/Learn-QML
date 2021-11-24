@@ -1,0 +1,1 @@
+helloWorld: qsTr("Hello world")
